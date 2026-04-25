@@ -1,4 +1,4 @@
-## Hi there 👋 I am Priyanshu Kumar, Currently studying Computer Science at PES University
+## Hi there 👋 I am Priyanshu Kumar
 
 <!--
 **priyanshu-kmr/priyanshu-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
