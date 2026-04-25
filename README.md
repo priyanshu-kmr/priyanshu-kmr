@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Priyanshu Kumar
-
+I am Student of PES University with deep interest in working of Distributed Systems and Machine Learning.  
 <!--
 **priyanshu-kmr/priyanshu-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-aaa88726a/)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:priyanshu.dude273@gmail.com)
+
 
