@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-aaa88726a/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:priyanshu.dude273@gmail.com)
 
+### Stats
 
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kmr\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kmr\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-kmr\&theme=tokyonight)
