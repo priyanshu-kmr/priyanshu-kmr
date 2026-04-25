@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kmr\&show_icons=true\&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-kmr\&theme=tokyo-night)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kmr\&layout=compact\&theme=tokyonight)
 
