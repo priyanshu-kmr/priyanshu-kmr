@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Priyanshu!
-I am Student of PES University with deep interest in working of Distributed Systems, DevOps and Machine Learning.  
+I am Student of PES University currently studying Computer Science. I have deep a interest in distributed systems, devOps, system architecture and AI systems.  
 <!--
 **priyanshu-kmr/priyanshu-kmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kmr\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-kmr\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kmr&show_icons=true)
