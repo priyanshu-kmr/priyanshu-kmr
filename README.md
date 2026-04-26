@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kmr\&layout=compact\&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kmr&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kmr&show_icons=true\&theme=tokyonight)
